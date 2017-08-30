@@ -1,0 +1,2 @@
+# WeCanWriteReadingSentencesOnlyRead1Page
+１行読んだだけで書く読書感想文です。
